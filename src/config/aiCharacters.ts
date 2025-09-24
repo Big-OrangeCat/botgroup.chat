@@ -41,9 +41,9 @@ export const modelConfigs = [
     baseURL: "https://api.deepseek.com/v1"
   },
   {
-    model: "kimi-k2-250905",
+    model: "moonshot-v1-8k",
     apiKey: "KIMI_API_KEY",
-    baseURL: "https://ark.cn-beijing.volces.com/api/v3"
+    baseURL: "https://api.moonshot.cn/v1"
   },
   {
     model: "ernie-3.5-128k",
